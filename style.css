@@ -37,7 +37,7 @@ input {
 
 button {
   padding: 10px 20px;
-  background-color: #007bff;
+  background-color: #000000;
   color: #fff;
   border: none;
   border-radius: 5px;
@@ -46,7 +46,7 @@ button {
 }
 
 button:hover {
-  background-color: #0056b3;
+  background-color: #000000;
 }
 
 #resultado {
@@ -65,7 +65,7 @@ button:hover {
 }
 
 .icons img {
-  width: 10px;
+  width: 12px;
   height: 10px;
 }
 
